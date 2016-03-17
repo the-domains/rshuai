@@ -1,6 +1,6 @@
 name: rshuai
 favicon: null
-layout_spectrum: 0.3004690126981586
+layout_spectrum: 0.36973
 typography_spectrum: 0.32126543298363686
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.37423250917345285
-  lightness: 0.3074674280360341
-  saturation: 0.689683670643717
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 0.3125
   rhythmicContrast: 0.05116544640623033
 purpose: []
