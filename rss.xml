@@ -4,7 +4,7 @@
         <description><![CDATA[Raymond Shuai]]></description>
         <link>https://thegrid.ai/rshuai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 17:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 17:18:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rshuai/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00cbee0d-587e-43f8-87d3-7bdf9b86a4a3.jpg">]]></description>
             <link>https://thegrid.ai/rshuai/12c6f94b-b9a0-4acf-98d2-7dea028429a1/index.html</link>
             <guid isPermaLink="false">12c6f94b-b9a0-4acf-98d2-7dea028429a1</guid>
-            <pubDate>Thu, 17 Mar 2016 17:00:36 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 17:18:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
