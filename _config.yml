@@ -1,6 +1,6 @@
 name: rshuai
 favicon: null
-layout_spectrum: 0.4801
+layout_spectrum: 0.24323
 typography_spectrum: 0.46326
 title: Raymond Shuai
 cta:
@@ -22,7 +22,7 @@ color:
     - '#2d1d4c'
     - '#6e5d7d'
     - '#a0969e'
-  brandStrength: 0.6875
+  brandStrength: 0
   lightness: 0.75
   saturation: 0.3125
   rhythmicContrast: 0.25
